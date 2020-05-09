@@ -1,0 +1,1 @@
+Dependencies: urllib.request, re, bs4, requests
